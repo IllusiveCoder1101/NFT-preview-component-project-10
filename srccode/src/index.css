@@ -31,7 +31,7 @@ html{
   
 }
 .container{
-  width:70%;
+  width:30rem;
   background-color: var(--color-background-card-);
 }
 .equilibrium{
@@ -108,7 +108,7 @@ html{
     font-size:100%;
   }
   .container{
-    width:27rem;
+    width:23rem;
     overflow:hidden;
     height:78%;
   }
@@ -172,7 +172,7 @@ html{
   }
   .creator{
     font-family: Outfit-mid;
-    font-size:1.4rem;
+    font-size:1.2rem;
     padding-left:1rem;
     color:var(--color-primary-);
   }
